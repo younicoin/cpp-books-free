@@ -5,11 +5,11 @@ C++ free books. Learn C++
 
 ## C++ Primer, Fifth Edition
 
-Stanley B. Lippman, Josée Lajoie, Barbara E. Moo
+Authors: Stanley B. Lippman, Josée Lajoie, Barbara E. Moo
 
-Source: https://github.com/wxx9248/CPP-Primer-5th-Edition
+Source: https://github.com/wxx9248/CPP-Primer-5th-Edition \
 Build pdf:
-<pre>
+```
 git clone https://github.com/wxx9248/CPP-Primer-5th-Edition.git
 cd CPP-Primer-5th-Edition/
 sed -i 's/^<table width="100%" border="0" cellspacing="0" cellpadding="0">$//g' *.html
@@ -27,5 +27,5 @@ sed -i 's/\(<[^>]* id="\)\(filepos[0-9]*\)" \([^>]*>\)/<a name="\2">\&nbsp;<\/a>
 chromium book.html
 chromium --headless --print-to-pdf="./CPP-Primer-5th-Edition.pdf" book.html
   (but wkhtmltopdf and firefox did not work with internal links)
-</pre>
+```
 
