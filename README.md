@@ -1,9 +1,9 @@
 # C++ Books Free
 
-C++ free books. Learn C++
+C++ free books. Learn C++. English and Russian.
 
 
-## C++ Primer, Fifth Edition
+### C++ Primer, Fifth Edition
 
 Authors: Stanley B. Lippman, Josée Lajoie, Barbara E. Moo
 
@@ -28,4 +28,48 @@ chromium book.html
 chromium --headless --print-to-pdf="./CPP-Primer-5th-Edition.pdf" book.html
   (but wkhtmltopdf and firefox did not work with internal links)
 ```
+
+&nbsp;
+
+## C++ Tutorial from cplusplus.com
+
+eng_cpp_tutorial_cpluspluscom.pdf
+
+&nbsp;
+
+&nbsp;
+
+## Учебники C++ на русском
+
+### Бьярн Страуструп. Введение в язык Си++
+
+Древняя книга от создателя языка программирования C++.
+
+&nbsp;
+
+### C++_Lippman_для_начинающих._Стенли_Б._Липпман
+
+&nbsp;
+
+### Шилдт. Базовый курс C++
+
+Russian/shildt_cpp_bazovy_kurs.pdf
+
+&nbsp;
+
+### Шилдт. С++. Руководство для начинающих
+
+Russian/shildt_cxx_rukovodstvo_dlya_nachinayushchih.pdf
+
+&nbsp;
+
+### Страуструп. Справочное руководство C++
+
+Russian/straustrup-sprav-rukovodstvo-cpp.txt
+
+&nbsp;
+
+### Страуструп. Язык C++
+
+Russian/straustrup-yazik-cpp.txt
 
